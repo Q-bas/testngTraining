@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite 1">
+    <parameter name="URL" value="google.com"/>
+    <test name="DemoTests">
+    <parameter name="URL" value="google.com.ua"/>
+    <parameter name="path" value="/maps"></parameter>
+        <classes>
+            <class name="tests.day2"/>
+        </classes>
+    </test>
+    <test name="DemoTest2">
+        <classes>
+            <class name="tests.day1">
+                <!-- <methods>
+                    <exclude name="TestB"></exclude>
+                </methods> -->
+            </class>
+            <class name="tests.day3"/>
+            <class name="tests.day4"></class>
+        </classes>
+    </test>
+</suite> 
