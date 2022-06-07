@@ -63,7 +63,8 @@ public class Listeners implements ITestListener{
     @Override
     public void onTestFailure(ITestResult result) {
         // TODO Auto-generated method stub
-        System.out.println("Failed");;
+        System.out.println("Failed "+result.getName());
+        
     }
 
     @Override

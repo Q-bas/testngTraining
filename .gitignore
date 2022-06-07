@@ -1,0 +1,55 @@
+.vscode/settings.json
+target/.DS_Store
+target/generated-sources/.DS_Store
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/surefire-reports/.DS_Store
+target/surefire-reports/bullet_point.png
+target/surefire-reports/collapseall.gif
+target/surefire-reports/emailable-report.html
+target/surefire-reports/failed.png
+target/surefire-reports/index.html
+target/surefire-reports/jquery-3.6.0.min.js
+target/surefire-reports/navigator-bullet.png
+target/surefire-reports/passed.png
+target/surefire-reports/skipped.png
+target/surefire-reports/TEST-TestSuite.xml
+target/surefire-reports/testng-failed.xml
+target/surefire-reports/testng-reports.css
+target/surefire-reports/testng-reports.js
+target/surefire-reports/testng-reports1.css
+target/surefire-reports/testng-reports2.js
+target/surefire-reports/testng-results.xml
+target/surefire-reports/testng.css
+target/surefire-reports/TestSuite.txt
+target/surefire-reports/Suite 1/DemoTest2.html
+target/surefire-reports/Suite 1/DemoTest2.xml
+target/surefire-reports/Suite 1/DemoTests.html
+target/surefire-reports/Suite 1/DemoTests.xml
+target/surefire-reports/Suite 1/testng-failed.xml
+target/surefire-reports/junitreports/TEST-tests.day1.xml
+target/surefire-reports/junitreports/TEST-tests.day2.xml
+target/surefire-reports/junitreports/TEST-tests.day3.xml
+target/surefire-reports/junitreports/TEST-tests.day4.xml
+target/surefire-reports/old/index.html
+target/surefire-reports/old/Suite 1/classes.html
+target/surefire-reports/old/Suite 1/DemoTest2.properties
+target/surefire-reports/old/Suite 1/DemoTests.properties
+target/surefire-reports/old/Suite 1/groups.html
+target/surefire-reports/old/Suite 1/index.html
+target/surefire-reports/old/Suite 1/main.html
+target/surefire-reports/old/Suite 1/methods-alphabetical.html
+target/surefire-reports/old/Suite 1/methods-not-run.html
+target/surefire-reports/old/Suite 1/methods.html
+target/surefire-reports/old/Suite 1/reporter-output.html
+target/surefire-reports/old/Suite 1/testng.xml.html
+target/surefire-reports/old/Suite 1/toc.html
+target/test-classes/.DS_Store
+target/test-classes/tests/day1.class
+target/test-classes/tests/day2.class
+target/test-classes/tests/day3.class
+target/test-classes/tests/day4.class
+target/test-classes/tests/Listeners.class
+.DS_Store
